@@ -9,4 +9,6 @@ npm install
 
 npm start
 
+npm make  //package application and making platform specific distributables
+
 ```
